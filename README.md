@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Amrit Kumar Singh 👋</h1>
+<h1 align="center">Hi, I'm Amuiyu 👋</h1>
 
 <p align="center">
   <em>Python Developer · Machine Learning & GenAI Enthusiast · MERN Full-Stack Developer</em>
