@@ -38,7 +38,8 @@ A full-stack hospital registration platform with a clean, responsive UI — stre
 
 ---
 
-## 💼 Experience
+<!-- <h1>
+  ## 💼 Experience
 
 | Role | Organization |
 |------|-------------|
@@ -46,7 +47,7 @@ A full-stack hospital registration platform with a clean, responsive UI — stre
 | Training — Software Development | DigiCoders |
 | Training — IT Skills | NIELIT |
 
----
+---</h1> -->
 
 ## 🛠️ Tech Stack
 
@@ -115,7 +116,8 @@ A full-stack hospital registration platform with a clean, responsive UI — stre
 I'm always open to discussing **Python**, **Machine Learning**, **GenAI**, or full-stack projects.
 
 <p align="center">
-  <a href="mailto:amritkumarsingh252@gmail.com">
+  <!-- <a href="mailto:amritkumarsingh252@gmail.com"> -->
+  <a href="mailto:thengapowder@gmail.com">
     <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me">
   </a>
 </p>
